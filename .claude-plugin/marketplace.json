@@ -1,0 +1,16 @@
+{
+  "name": "app-review",
+  "owner": {
+    "name": "Godwin Danjuma",
+    "email": "hello@degordons.xyz",
+    "url": "https://github.com/degordonstech"
+  },
+  "description": "A Claude Code plugin by Degordons for passing Meta, TikTok and Google Play review.",
+  "plugins": [
+    {
+      "name": "app-review",
+      "source": "./",
+      "description": "Reads your code, lists the permissions you really use, and writes the review text, recording script and reviewer instructions for Meta, TikTok and Google Play."
+    }
+  ]
+}

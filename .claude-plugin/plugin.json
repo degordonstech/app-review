@@ -1,0 +1,13 @@
+{
+  "name": "app-review",
+  "version": "0.1.0",
+  "description": "Write your Meta, TikTok and Google Play review submissions from your code, so you ask only for what you use and show reviewers exactly what they need.",
+  "author": {
+    "name": "Godwin Danjuma",
+    "url": "https://degordons.xyz"
+  },
+  "homepage": "https://github.com/degordonstech/app-review",
+  "repository": "https://github.com/degordonstech/app-review",
+  "license": "MIT",
+  "keywords": ["app-review", "meta", "instagram", "facebook", "whatsapp", "tiktok", "google-play", "data-safety", "permissions"]
+}
