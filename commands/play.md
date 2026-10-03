@@ -1,5 +1,5 @@
 ---
-description: Prepare the Google Play Console answers for this app from its code
+description: Prepare the Google Play Console answers (data safety, app access, account deletion, closed testing) from this app's code
 ---
 
 Prepare this project for Google Play review using the app-review skill.

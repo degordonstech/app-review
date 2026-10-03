@@ -1,5 +1,5 @@
 ---
-description: Write the Meta App Review submission for this app from its code
+description: Write the Meta App Review submission (permissions, screencast script, reviewer notes) from this app's code
 ---
 
 Prepare a Meta App Review submission for this project using the app-review skill.

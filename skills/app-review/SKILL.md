@@ -1,6 +1,6 @@
 ---
 name: app-review
-description: Prepare an app for platform review and write the submission text from the code itself. Covers Meta App Review (Facebook, Instagram, WhatsApp permissions), TikTok for Developers app review, and Google Play Console (data safety, account deletion, app access, closed testing, sensitive permissions). Use whenever someone is submitting or resubmitting for review, was rejected and needs to fix it, needs permission justifications, a screen recording script, reviewer test instructions, or data safety answers, or asks which permissions they actually need.
+description: Prepare an app for platform review and write the submission text from the code itself. Covers Meta App Review (Facebook, Instagram, WhatsApp permissions and Advanced Access), TikTok for Developers app review (products, scopes, demo video), and Google Play Console (data safety form, account deletion, app access, the 12 tester closed test, sensitive permissions). Use whenever someone is submitting or resubmitting for review, says their app was rejected ("Meta rejected my app", "TikTok app review failed", "Play Console rejected my update", "insufficient screencast", "permission not shown being used"), needs a use description for a permission like pages_messaging or instagram_business_manage_messages, needs a screen recording or demo video script, reviewer login instructions, or data safety answers, asks which permissions or scopes they actually need, or is about to add a feature that needs a new permission.
 ---
 
 # Getting through app review the first time

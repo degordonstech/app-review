@@ -1,5 +1,5 @@
 ---
-description: Write the TikTok app review submission for this app from its code
+description: Write the TikTok app review submission (products, scopes, demo video script) from this app's code
 ---
 
 Prepare a TikTok for Developers app review submission for this project using the app-review skill.
