@@ -1,13 +1,32 @@
 {
   "name": "app-review",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Write your Meta, TikTok and Google Play review submissions from your code, so you ask only for what you use and show reviewers exactly what they need.",
+  "icon": "./icon.png",
   "author": {
     "name": "Godwin Danjuma",
     "url": "https://degordons.xyz"
   },
   "homepage": "https://github.com/degordonstech/app-review",
   "repository": "https://github.com/degordonstech/app-review",
+  "documentationUrl": "https://github.com/degordonstech/app-review#readme",
+  "supportUrl": "https://github.com/degordonstech/app-review/issues",
   "license": "MIT",
-  "keywords": ["app-review", "meta-app-review", "meta", "instagram", "facebook", "whatsapp", "tiktok", "google-play", "play-console", "data-safety", "permissions", "screencast", "rejected", "advanced-access", "closed-testing"]
+  "keywords": [
+    "app-review",
+    "meta-app-review",
+    "meta",
+    "instagram",
+    "facebook",
+    "whatsapp",
+    "tiktok",
+    "google-play",
+    "play-console",
+    "data-safety",
+    "permissions",
+    "screencast",
+    "rejected",
+    "advanced-access",
+    "closed-testing"
+  ]
 }
